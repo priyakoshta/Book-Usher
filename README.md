@@ -11,5 +11,8 @@ processor.py : file is used to give recommendations
 
 To run :
 
+Unzip resources.tar.gz
+tar xvzf resources.tar.gz -C .
+
 Make changes in config.py 
 Specify your input bookname and run processor.py
